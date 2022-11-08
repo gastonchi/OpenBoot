@@ -1,0 +1,13 @@
+{
+  "name": "modulejs",
+  "version": "1.0.0",
+  "description": "Prueba Modulo en JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "",
+    "start": "index.js"
+  },
+  "author": "Gastón",
+  "license": "ISC"
+}
