@@ -1,5 +1,5 @@
-hola mundo de piruleta
+hola mundo de freesa
 adios venus
 
-linea1
-linea2
+linea 10000
+AS
