@@ -1,5 +1,5 @@
-hola mundo 123
-adios saturno 456
+hola mundo de piruleta
+adios venus
 
 linea1
 linea2
